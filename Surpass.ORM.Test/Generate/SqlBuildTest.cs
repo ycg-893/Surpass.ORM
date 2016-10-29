@@ -14,9 +14,18 @@ namespace Surpass.ORM.Test.Generate
     public class SqlBuildTest
     {
 
-        //[Test]
-        //public void TestMethod1()
-        //{
-        //}
+        /// <summary>
+        /// Sql打印
+        /// </summary>
+        [Test]
+        public void SqlPrint()
+        {
+            string a = "";
+            if (a != null)
+            {
+
+            }
+
+        }
     }
 }

@@ -1,0 +1,9 @@
+﻿<NUnitProject>
+  <Settings activeconfig="Debug" />
+  <Config name="Debug" appbase="bin" configfile="Surpass.ORM.Test.dll.config" binpathtype="Auto">
+    <assembly path="Surpass.ORM.Test.dll" />
+  </Config>
+  <Config name="Release" appbase="bin" configfile="Surpass.ORM.Test.dll.config" binpathtype="Auto">
+    <assembly path="Surpass.ORM.Test.dll" />
+  </Config>
+</NUnitProject>
