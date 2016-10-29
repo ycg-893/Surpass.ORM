@@ -4,12 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Surpass.ORM.Generate
+namespace Surpass.ORM
 {
     /// <summary>
-    /// Sql生成器
+    /// 数据上下文抽象
     /// </summary>
-    public class SqlBuild
+    public interface IDbContext
     {
 
     }
