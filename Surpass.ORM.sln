@@ -7,6 +7,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Surpass.ORM", "Surpass.ORM\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Surpass.ORM.Test", "Surpass.ORM.Test\Surpass.ORM.Test.csproj", "{067456C0-086C-46A8-B37F-1405717B7BFC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Surpass.ORM.SqlServer", "Surpass.ORM.SqlServer\Surpass.ORM.SqlServer.csproj", "{B9DEE0D4-A9E7-4EA7-B886-FCAFD88A7842}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Surpass.ORM.MySql", "Surpass.ORM.MySql\Surpass.ORM.MySql.csproj", "{8C7E082B-04D0-4AC3-B439-ACB26161A202}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Surpass.ORM.Oracle", "Surpass.ORM.Oracle\Surpass.ORM.Oracle.csproj", "{8ECDAAEF-E4E0-4A18-9889-D6D6D3058367}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +27,18 @@ Global
 		{067456C0-086C-46A8-B37F-1405717B7BFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{067456C0-086C-46A8-B37F-1405717B7BFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{067456C0-086C-46A8-B37F-1405717B7BFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9DEE0D4-A9E7-4EA7-B886-FCAFD88A7842}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9DEE0D4-A9E7-4EA7-B886-FCAFD88A7842}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9DEE0D4-A9E7-4EA7-B886-FCAFD88A7842}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9DEE0D4-A9E7-4EA7-B886-FCAFD88A7842}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C7E082B-04D0-4AC3-B439-ACB26161A202}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C7E082B-04D0-4AC3-B439-ACB26161A202}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C7E082B-04D0-4AC3-B439-ACB26161A202}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C7E082B-04D0-4AC3-B439-ACB26161A202}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ECDAAEF-E4E0-4A18-9889-D6D6D3058367}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ECDAAEF-E4E0-4A18-9889-D6D6D3058367}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ECDAAEF-E4E0-4A18-9889-D6D6D3058367}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ECDAAEF-E4E0-4A18-9889-D6D6D3058367}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
