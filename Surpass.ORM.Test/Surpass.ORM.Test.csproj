@@ -54,6 +54,9 @@
   <ItemGroup>
     <None Include="app.config" />
     <None Include="packages.config" />
+    <None Include="Surpass.ORM.nunit">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Surpass.ORM.MySql\Surpass.ORM.MySql.csproj">
